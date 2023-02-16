@@ -1,0 +1,6 @@
+id,peer1,peer2
+1,A_peer,G_peer
+2,A_peer,D_peer
+3,G_peer,C_peer
+4,F_peer,B_peer
+5,H_peer,E_peer

@@ -1,0 +1,14 @@
+id,checking_peer,checked_peer,points_amount
+1,B_peer,A_peer,2
+2,A_peer,B_peer,1
+3,C_peer,B_peer,1
+4,D_peer,C_peer,1
+5,A_peer,D_peer,1
+6,H_peer,E_peer,1
+7,G_peer,A_peer,2
+8,A_peer,H_peer,1
+9,H_peer,A_peer,1
+10,E_peer,H_peer,1
+11,B_peer,C_peer,1
+12,C_peer,D_peer,1
+13,A_peer,G_peer,2

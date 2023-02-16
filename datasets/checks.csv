@@ -1,0 +1,13 @@
+id,peer,task,date
+1,A_peer,C2_SimpleBashUtils,2021-10-30
+2,B_peer,C2_SimpleBashUtils,2021-11-01
+3,C_peer,C2_SimpleBashUtils,2021-11-03
+4,D_peer,C2_SimpleBashUtils,2021-11-04
+5,E_peer,C2_SimpleBashUtils,2021-11-05
+6,A_peer,C3_s21_stringplus,2021-11-15
+7,B_peer,C3_s21_stringplus,2021-11-15
+8,H_peer,C2_SimpleBashUtils,2021-11-15
+9,A_peer,C5_s21_decimal,2021-11-25
+10,A_peer,C6_s21_matrix,2021-11-26
+11,A_peer,C7_SmartCalc_v1.0,2021-12-01
+12,A_peer,C8_3DViewer_v1.0,2021-12-10
